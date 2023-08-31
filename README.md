@@ -36,7 +36,7 @@ MS Excel, Tableau Public.
 Excel, Tableau, Datenvisualisierung.
 
 ### Übersicht über das Dashboard
-![] (Maven_Roaster_Kaffee_Daten_Dashboard.png)
+![](Maven_Roaster_Kaffee_Daten_Dashboard.png)
 
 
 # Projekt 2 - Analyse der Daten von Maven Supplies
@@ -73,7 +73,7 @@ MS Excel, Tableau Public.
 Excel, Tableau, Datenvisualisierung.
 
 ### Übersicht über das Dashboard
-![] (Maven_Lieferungen_Daten_Dashboard.png)
+![](Maven_Lieferungen_Daten_Dashboard.png)
 
 # Projekt 3 - Analyse der Covid-Daten  
 ## •	Geschäftsproblem und -kontext: 
@@ -107,7 +107,7 @@ SQL Server Management Studio, Tableau Public.
 SQL Server, Tableau, Datenvisualisierung.
 
 ### Übersicht über das Dashboard
-![] (Covid_Daten_Dashboard.png)
+![](Covid_Daten_Dashboard.png)
 
 # Projekt 4 - Analyse der Airbnb-Daten  
 ## •	Geschäftsproblem und -kontext: 
@@ -133,7 +133,7 @@ MS Excel, Tableau Public.
 Excel, Tableau, Datenvisualisierung.
 
 ### Übersicht über das Dashboard
-![] (Airbnb_Daten_Dashboard.png)
+![](Airbnb_Daten_Dashboard.png)
 
 
 # Projekt 5 - Analyse der Umsatzdaten  
@@ -162,4 +162,4 @@ Tableau Public, MS Excel.
 Tableau, Excel
 
 ### Übersicht über das Dashboard
-![] (Superstore_Umsatz_Daten_Dashboard.png)
+![](Superstore_Umsatz_Daten_Dashboard.png)
