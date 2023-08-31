@@ -35,6 +35,9 @@ MS Excel, Tableau Public.
 ## •	Verwendete Techniken/Fähigkeiten:
 Excel, Tableau, Datenvisualisierung.
 
+### Übersicht über das Dashboard
+![] (Maven_Roaster_Kaffee_Daten_Dashboard.png)
+
 
 # Projekt 2 - Analyse der Daten von Maven Supplies
 ## •	Geschäftsproblem und Kontext
@@ -69,6 +72,8 @@ MS Excel, Tableau Public.
 ## •	Verwendete Techniken/Fähigkeiten:
 Excel, Tableau, Datenvisualisierung.
 
+### Übersicht über das Dashboard
+![] (Maven_Lieferungen_Daten_Dashboard.png)
 
 # Projekt 3 - Analyse der Covid-Daten  
 ## •	Geschäftsproblem und -kontext: 
@@ -101,6 +106,8 @@ SQL Server Management Studio, Tableau Public.
 ## •	Verwendete Techniken/Fähigkeiten:
 SQL Server, Tableau, Datenvisualisierung.
 
+### Übersicht über das Dashboard
+![] (Covid_Daten_Dashboard.png)
 
 # Projekt 4 - Analyse der Airbnb-Daten  
 ## •	Geschäftsproblem und -kontext: 
@@ -125,9 +132,11 @@ MS Excel, Tableau Public.
 ## •	Verwendete Techniken/Fähigkeiten:
 Excel, Tableau, Datenvisualisierung.
 
+### Übersicht über das Dashboard
+![] (Airbnb_Daten_Dashboard.png)
 
 
-# Projekt - Analyse der Umsatzdaten  
+# Projekt 5 - Analyse der Umsatzdaten  
 ## •	Geschäftsproblem und -kontext: 
 Bereinigung des Superstore-Datensatzes, der in csv-Dateien vorliegt. Erstellen Sie ein Dashboard aus diesen Daten mit Tableau Public, um KPIs wie Umsatz, Gesamtbestellungen, Gesamtgewinn zu verfolgen, den Umsatz nach Bestelldatum zu vergleichen, Kunden mit hohem Wert und Trends auf Kategorieebene zu analysieren.
 
@@ -151,3 +160,6 @@ Tableau Public, MS Excel.
 
 ## •	Verwendete Techniken/Fähigkeiten:
 Tableau, Excel
+
+### Übersicht über das Dashboard
+![] (Superstore_Umsatz_Daten_Dashboard.png)
