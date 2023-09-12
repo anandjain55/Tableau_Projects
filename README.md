@@ -62,9 +62,14 @@ Erstellung eines vollständigen KPI-Dashboards auf Produktionsebene mit Tableau 
 6.	Alle im Dashboard angezeigten Analysen werden durch benutzerdefinierte Berechnungen, Parameter, dynamische Sets, benutzerdefinierte Bilder und die Möglichkeit, dieses Dashboard außerhalb des Tools zu exportieren und an den Rest des Unternehmens zu verteilen, unterstützt.
 
 ## •	Ergebnis und Schlussfolgerung aus dem Dashboard:
-1.	Von Dezember 2020 bis Juni 2022 stiegen die Einnahmen mit einigen Ausnahmen linear an.  Die Gesamteinnahmen betrugen $ 24,9 Mio., während der Gewinn $ 10,5 Mio. betrug. 25,2 K Bestellungen wurden in diesem Zeitraum aufgegeben und die Gesamtrücklaufquote betrug 2,2 %.
-2.	Im Zeitraum von Januar 2020 bis Juni 2022 bestellten die Kunden am meisten Reifen und Schläuche, während das Produkt, das am häufigsten zurückgegeben wurde, Shorts waren.
-3.	Von Januar 2020 bis Juni 2022 war Herr Maurice Shan der Kunde mit dem höchsten Umsatz mit einem Gesamtumsatz von 12.000 $ und 6 Bestellungen. Beruflich gesehen hatten die Fachleute die meisten Aufträge, während die Managementgruppe die geringste Anzahl an Aufträgen hatte. Die Gesamtzahl der Kunden stieg mit einigen Ausnahmen allmählich an, während der Umsatz pro Kunde mit einigen Ausnahmen allmählich zurückging.
+1. Dieses dynamische Dashboard zeigt die Verkaufsanalyse des Maven Supplies-Datensatzes. 
+2. Hier beträgt der Gesamtumsatz 1032 $, während die Gewinnspanne 14,6% beträgt, die Gesamtbestellungen 16 >K für alle Jahre und ein Durchschnittsrabatt von 15%.
+3. Die Filter Datum, Segment, Region, Bundesland, Stadt und Umsatz helfen beim Filtern der Diagramme, um bessere Ergebnisse zu erzielen.
+4. Im Diagramm Umsatz vs. Ziel nach Region wurde der Umsatz als Balken und das Ziel als Gantt-Liniendiagramm dargestellt. In der westlichen und zentralen Region war der Umsatz höher als das Ziel.
+5. Das Kartendiagramm zeigt Umsatz und Gewinn nach Städten. Gewinn % zeigt den Bereich des Gewinns von -50% bis +50%. 
+Tooltip zeigt die Verkäufe und den prozentualen Anteil der Verkäufe in den einzelnen Bundesstaaten, z. B. hat New York City 89,4 % der Verkäufe im Bundesstaat New York.
+6. Das Balken- und Liniendiagramm zeigt den Vergleich von Umsatz und Gewinn nach Monat. Der Balken zeigt den Umsatz, die Linie den Gewinn. September 18 hat den höchsten Umsatz von 209.000 $ und einen Gewinn von 31.000 $.
+7. Treemap zeigt die Umsätze und Gewinne nach Segmenten und Kategorien. Die Farben werden entsprechend dem prozentualen Gewinn im Bereich von -50% bis 50% angezeigt.
 
 ## •	Verwendete technische Tools: 
 MS Excel, Tableau Public.
