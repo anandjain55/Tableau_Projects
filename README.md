@@ -23,14 +23,14 @@ Erstellung eines vollständigen KPI-Dashboards auf Produktionsebene mit Tableau 
 6.	Alle im Dashboard angezeigten Analysen werden durch benutzerdefinierte Berechnungen, Parameter, dynamische Sets, benutzerdefinierte Bilder und die Möglichkeit, dieses Dashboard außerhalb des Tools zu exportieren und an den Rest des Unternehmens zu verteilen, unterstützt.
 
 ## •	Ergebnis und Schlussfolgerung aus dem Dashboard:
-1. Dieses dynamische Dashboard zeigt die Verkaufsanalyse des Maven Supplies-Datensatzes. 
-2. Hier beträgt der Gesamtumsatz 1032 $, während die Gewinnspanne 14,6% beträgt, die Gesamtbestellungen 16 >K für alle Jahre und ein Durchschnittsrabatt von 15%.
-3. Die Filter Datum, Segment, Region, Bundesland, Stadt und Umsatz helfen beim Filtern der Diagramme, um bessere Ergebnisse zu erzielen.
-4. Im Diagramm Umsatz vs. Ziel nach Region wurde der Umsatz als Balken und das Ziel als Gantt-Liniendiagramm dargestellt. In der westlichen und zentralen Region war der Umsatz höher als das Ziel.
-5. Das Kartendiagramm zeigt Umsatz und Gewinn nach Städten. Gewinn % zeigt den Bereich des Gewinns von -50% bis +50%. 
-Tooltip zeigt die Verkäufe und den prozentualen Anteil der Verkäufe in den einzelnen Bundesstaaten, z. B. hat New York City 89,4 % der Verkäufe im Bundesstaat New York.
-6. Das Balken- und Liniendiagramm zeigt den Vergleich von Umsatz und Gewinn nach Monat. Der Balken zeigt den Umsatz, die Linie den Gewinn. September 18 hat den höchsten Umsatz von 209.000 $ und einen Gewinn von 31.000 $.
-7. Treemap zeigt die Umsätze und Gewinne nach Segmenten und Kategorien. Die Farben werden entsprechend dem prozentualen Gewinn im Bereich von -50% bis 50% angezeigt.
+1.	Dieses dynamische Dashboard zeigt die Umsatzanalyse des Maven Supplies-Datensatzes.
+2.	Filetern wie Datum, Segment, Region, Bundesland, Stadt und Umsatz hilfe fur datei filtenn  für eine optimierte Nutzung.
+3.	Die Kennzahlen zeigen einen umsatz, gewinnspane , Gesamtbestellungen und einen durchschnittlichen Rabatt.
+4.	Balkendiagramm  zeigt den Umsatz und das Gantt-Diagramm das Ziel im diagram Vergleich zum Ziel nach Region. In den Regionen Westen  und Central war der Umsatz höher als das Ziel.
+5.	Map Diagramm zeigt Umsatz und Gewinn nach Städten. Gewinn % zeigt den Gewinnbereich von -50% bis +50%. Diagram zeigt das New York City hat 89,4 % der Umsatz im Bundesstaat New York und wir können für jede Stadt sehen, wie hoch der Umsatz in ihrem Bundesstaat ist.
+6.	Der Balken und die Linie diagramm  vergleichen den Umsatz und den Gewinn nach Monaten. Der Balken zeigt den Umsatz, die Linie den Gewinn. Der 18. September weist den höchsten Umsatz von $ 209K und einen Gewinn von $ 31K auf.
+7.	Treemap zeigt Umsatz und Gewinn nach Segmenten und Unterkategorien. Hier auch  Gewinn % zeigt den Gewinnbereich von -50% bis +50%. Technologie hatte den höchsten Umsatz und hochsten weinn von $  390 Kund Burodarf den niedrigsten Umsatz von $ 312 K.
+
 
 ## •	Verwendete technische Tools: 
 MS Excel, Tableau Public.
