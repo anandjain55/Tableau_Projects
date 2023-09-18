@@ -1,45 +1,6 @@
-# Projekt 1 - Maven Roasters Kaffee Datenanalyse
-
-## •	Geschäftsproblem und Kontext: 
-Sie wurden gerade von MAVEN Roasters, einer kleinen Kaffeerösterei, eingestellt. Maven Roasters braucht eine Möglichkeit, seine KPIs zu verfolgen, die Leistung auf verschiedenen Märkten zu vergleichen, die Kategorie und die Rentabilität zu analysieren und die wichtigsten Kunden zu identifizieren.
-Alles, was Sie bekommen haben, ist eine Mappe mit Excel-Dateien, die Informationen über Bestellungen, Retouren, Produkte, Kunden und Gebiete enthalten.
-
-## •	Zielsetzung erreicht:
-Erstellen von Beziehungen zwischen Datenquellen, Entwerfen eines dynamischen Dashboards und visueller Darstellungen, Nutzung von Geospatial-Mapping-Funktionen, Anwendung fortgeschrittener Berechnungen auf wichtige Geschäftsvorgänge, Anwendungsfälle und Integration von Predictive-Analytics-Assets.
 
 
-## •	Abgeleitete Schlüsselerkenntnisse:
-1.	Neue Analysen, die spezifisch und anwendungsbezogen sind, wie z. B. Berechnungen im Jahresvergleich anhand von Visualisierungen und Indexdiagrammen, die sich dynamisch auf der Grundlage der bereitgestellten Auswahl ändern.
-2.	Kundenanalysen, die die Kohortenanalyse, die Häufigkeit von Kundenbestellungen und die Neukundenakquise anhand von realen Anwendungsfällen zeigen, helfen dabei, die Analysen voranzutreiben und zeigen, was Tableau wirklich leisten kann.
-3. Filtermenüs helfen bei der optimierten Nutzung des Dashboards durch die Endbenutzer.
-4. Funktionen zur dynamischen Änderung der Visualisierungen, der Dimensionen und Kennzahlen, die in den Visualisierungen verwendet werden, und sogar der Parameter, die die in den Ansichten angezeigten Berechnungen steuern, ermöglichen es den Benutzern, auf einer Seite zu bleiben und dennoch eine enorme Menge an Analysen in einem einzigen Bereich zu erhalten.
-
-## •	Die wichtigsten Schritte:
-1.	Erstellung von Leistungsindikatoren auf hoher Ebene, indem mehr Daten durch andere Arten von Indikatoren, wie z. B. Infosymbole und Anweisungs-Overlays, überlagert werden.
-2.	Erstellung von Schlüsselfunktionen, wie z. B. geografische Analysen.
-3.	Erstellung von Analysen, die sich dynamisch auf der Grundlage des Berechnungsradius ändern können,
-Hervorhebung verschiedener Stadtteile in den Daten durch räumliche Polygon-Analysen, Dichtekarten und
-mehr.
-4.	Wir sind tief in die Welt der prädiktiven Analysen in Tableau eingetaucht, indem wir Dinge wie Clusteranalyse, Kontrolldiagramme, Trendlinien und Prognosen vorgestellt haben.
-
-## •	Ergebnis und Schlussfolgerung aus dem Dashboard:
-1.	Der Gesamtumsatz lag bei 658.000 $.  
-2.	Die gesamten Verkaufsaufträge belaufen sich auf 202.000.
-3.	Insgesamt gibt es 2250 Kunden.
-4.	Die Baumstruktur zeigt, dass Getränke den höchsten Verkauf von $77K haben, während Add den niedrigsten Verkauf von $7868 hat. 
-5.	Die Kartenansicht gibt Auskunft über die Gesamtzahl der Konkurrenten und hat die höchste Anzahl von Konkurrenten als 8 für Geschäft 8 innerhalb der Entfernung von 1 Meile. Die Entfernung kann von 0-2 Meilen geändert werden.
-
-## •	Verwendete technische Tools: 
-MS Excel, Tableau Public.
-
-## •	Verwendete Techniken/Fähigkeiten:
-Excel, Tableau, Datenvisualisierung.
-
-### Übersicht über das Dashboard
-![](Maven_Roaster_Kaffee_Daten_Dashboard.png)
-
-
-# Projekt 2 - Analyse der Daten von Maven Supplies
+# Projekt 1 - Analyse der Daten von Maven Supplies
 ## •	Geschäftsproblem und Kontext
 Sie wurden gerade von Maven Supplies eingestellt, einem innovativen Büroartikelgeschäft, das Kopierpapier und Haftnotizen wieder zum Leben erwecken möchte. Ihre Aufgabe ist es, eine Business-Intelligence-Lösung für die Geschäftsleitung von Grund auf zu entwerfen und aufzubauen.
 Ihr Kunde benötigt eine Möglichkeit, um KPIs wie Umsatz, Gewinneinheiten und Rückgaben zu verfolgen. Er muss die Leistung auf seinen verschiedenen Märkten vergleichen, die Rentabilität von Kategorien und Unterkategorien analysieren und Kunden mit hohem Wert identifizieren.
@@ -80,7 +41,7 @@ Excel, Tableau, Datenvisualisierung.
 ### Übersicht über das Dashboard
 ![](Maven_Lieferungen_Daten_Dashboard.png)
 
-# Projekt 3 - Analyse der Covid-Daten  
+# Projekt 2 - Analyse der Covid-Daten  
 ## •	Geschäftsproblem und -kontext: 
 Entwickeln Sie eine Datenbank in SQL, indem Sie eine Datenexploration der Covid-Daten durchführen und dann ein Dashboard mit Tableau erstellen. Das Dashboard soll die globale Anzahl der Fälle, die Todesfälle und deren Verhältnis, den Prozentsatz der infizierten Bevölkerung, eine Karte mit der infizierten Bevölkerung pro Land und die Gesamtanzahl der Todesfälle pro Kontinent zeigen.  
 
@@ -114,7 +75,7 @@ SQL Server, Tableau, Datenvisualisierung.
 ### Übersicht über das Dashboard
 ![](Covid_Daten_Dashboard.png)
 
-# Projekt 4 - Analyse der Airbnb-Daten  
+# Projekt 3 - Analyse der Airbnb-Daten  
 ## •	Geschäftsproblem und -kontext: 
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Airbnb-Daten und erstellen Sie dann mit Tableau ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends Durchschnittlicher Tagessatz pro Zimmer, Preis pro Postleitzahl, Jahreseinkommen und Anzahl der Zimmer anzeigen.
 
@@ -141,7 +102,7 @@ Excel, Tableau, Datenvisualisierung.
 ![](Airbnb_Daten_Dashboard.png)
 
 
-# Projekt 5 - Analyse der Umsatzdaten  
+# Projekt 4 - Analyse der Umsatzdaten  
 ## •	Geschäftsproblem und -kontext: 
 Bereinigung des Superstore-Datensatzes, der in csv-Dateien vorliegt. Erstellen Sie ein Dashboard aus diesen Daten mit Tableau Public, um KPIs wie Umsatz, Gesamtbestellungen, Gesamtgewinn zu verfolgen, den Umsatz nach Bestelldatum zu vergleichen, Kunden mit hohem Wert und Trends auf Kategorieebene zu analysieren.
 
